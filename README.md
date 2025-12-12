@@ -1,4 +1,4 @@
-# Brevly 🔗
+# Encurtador de URLs 🔗
 
 Encurtador de URLs moderno e eficiente, desenvolvido com Node.js, React e PostgreSQL.
 
